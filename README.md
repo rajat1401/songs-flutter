@@ -9,5 +9,4 @@ Created a basic flutter app that plays music offline using mp3 files.
 * Designed a basic UI
 * Learnt how to work with steteful as well as stateless widgets 
 
-
-[![Demo Flutter Music App](https://drive.google.com/file/d/1jWmOnaE6ZH1qO1mqstLr89-7hAkk9LAF/view?usp=sharing)](https://youtu.be/p635HKWkMUs)
+> [![Demo Flutter Music App](https://j.gifs.com/wV40v1.gif)](https://www.youtube.com/watch?v=p635HKWkMUs)
